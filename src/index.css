@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.start-100{
+  left: 90% !important;
+}
+.infinite-scroll-component{
+  overflow-x: hidden !important;
+}
